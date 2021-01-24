@@ -12,5 +12,5 @@ Abaixo eu separei por lista os mini-projetos e desafios de cada curso:
 ## **Big Data Real-Time Analytics com Python e Spark:**
 * [Desafio - Pipeline com PCA e Regressão Logística](https://github.com/EmilyRodrigues17/DSA_MiniProjetos_e_Desafios/blob/main/Desafio-Pipeline-PCA-RegressaoLogistica/Desafio-Pipeline-PCA-RegressaoLogistica.ipynb) <br>
 * [Mini-Projeto - Analisando Dados do Uber com Spark](https://github.com/EmilyRodrigues17/DSA_MiniProjetos_e_Desafios/blob/main/MiniProjeto-AnalisandoDadosUber_Spark/MiniProjeto-AnalisandoDadosUber_Spark.ipynb)
-
+* [Mini-Projeto - Sistema de Recomendação com Spark](https://github.com/EmilyRodrigues17/DSA_MiniProjetos_e_Desafios/tree/main/MiniProjeto-SistemaRecomendacao_Spark)
 
